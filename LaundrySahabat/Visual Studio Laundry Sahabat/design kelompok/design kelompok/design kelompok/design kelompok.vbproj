@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{947F9576-11F9-46DB-B0B0-8F6EF02FDA4C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>design_kelompok.Form_Login</StartupObject>
+    <RootNamespace>design_kelompok</RootNamespace>
+    <AssemblyName>design kelompok</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>design kelompok.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>design kelompok.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_DataAdmin.Designer.vb">
+      <DependentUpon>Form_DataAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DataAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DataLaundry_Adm.Designer.vb">
+      <DependentUpon>Form_DataLaundry_Adm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DataLaundry_Adm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB_LAUNDRYDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_LAUNDRYDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.vb">
+      <DependentUpon>Form_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tbhPegawai.Designer.vb">
+      <DependentUpon>Form_tbhPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tbhPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AmbilLaundry.Designer.vb">
+      <DependentUpon>Form_AmbilLaundry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AmbilLaundry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DataLaundry_Mng.Designer.vb">
+      <DependentUpon>Form_DataLaundry_Mng.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DataLaundry_Mng.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tbhCucian.Designer.vb">
+      <DependentUpon>Form_tbhCucian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tbhCucian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_loginAdmin.Designer.vb">
+      <DependentUpon>Form_loginAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_loginAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_loginMng.Designer.vb">
+      <DependentUpon>Form_loginMng.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_loginMng.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuAdmin.Designer.vb">
+      <DependentUpon>Form_MenuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuManager.Designer.vb">
+      <DependentUpon>Form_MenuManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tbhKaryawan.Designer.vb">
+      <DependentUpon>Form_tbhKaryawan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tbhKaryawan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Logout.Designer.vb">
+      <DependentUpon>Form_Logout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Logout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tbhAdmin.Designer.vb">
+      <DependentUpon>Form_tbhAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tbhAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DataPegawai.Designer.vb">
+      <DependentUpon>Form_DataPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DataPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form_DataAdmin.resx">
+      <DependentUpon>Form_DataAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DataLaundry_Adm.resx">
+      <DependentUpon>Form_DataLaundry_Adm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tbhPegawai.resx">
+      <DependentUpon>Form_tbhPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AmbilLaundry.resx">
+      <DependentUpon>Form_AmbilLaundry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DataLaundry_Mng.resx">
+      <DependentUpon>Form_DataLaundry_Mng.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tbhCucian.resx">
+      <DependentUpon>Form_tbhCucian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_loginAdmin.resx">
+      <DependentUpon>Form_loginAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_loginMng.resx">
+      <DependentUpon>Form_loginMng.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuAdmin.resx">
+      <DependentUpon>Form_MenuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuManager.resx">
+      <DependentUpon>Form_MenuManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tbhKaryawan.resx">
+      <DependentUpon>Form_tbhKaryawan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Logout.resx">
+      <DependentUpon>Form_Logout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tbhAdmin.resx">
+      <DependentUpon>Form_tbhAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DataPegawai.resx">
+      <DependentUpon>Form_DataPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include=".editorconfig.inferred" />
+    <None Include="DB_LAUNDRYDataSet.xsc">
+      <DependentUpon>DB_LAUNDRYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_LAUNDRYDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_LAUNDRYDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_LAUNDRYDataSet.xss">
+      <DependentUpon>DB_LAUNDRYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %2830%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %2851%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %2865%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-11-20 at 2.07.46 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-11-20 at 2.17.18 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %283%291.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

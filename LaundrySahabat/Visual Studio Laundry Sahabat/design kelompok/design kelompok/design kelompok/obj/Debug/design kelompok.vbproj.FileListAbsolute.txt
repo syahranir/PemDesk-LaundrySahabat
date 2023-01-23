@@ -1,0 +1,258 @@
+C:\Users\User\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\User\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\User\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\User\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form1.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form2.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form3.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form4.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form5.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form6.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form7.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form10.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form11.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form12.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form13.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form8.resources
+C:\Users\User\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form9.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_rekapData.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.MainMenu.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Menu_Manager.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.tambahKaryawan.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.konfirmasiLogout.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.dataPegawai.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\source\repos\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.DataAdmin.resources
+C:\Users\hp\source\repos\design kelompok\design kelompok\obj\Debug\design_kelompok.Data_Laundry_adm.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.DataAdmin.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Data_Laundry_adm.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_rekapData.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.MainMenu.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Menu_Manager.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.tambahKaryawan.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.konfirmasiLogout.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.dataPegawai.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+D:\CACA\matkul\SMT 3\PemDesk\NEW\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+D:\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+D:\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+D:\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+D:\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.DataAdmin.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Data_Laundry_adm.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_rekapData.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.MainMenu.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Menu_Manager.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.tambahKaryawan.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.konfirmasiLogout.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.dataPegawai.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+D:\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fix projek\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe.config
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.pdb
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\bin\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Adm.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Login.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_ambilLaundry.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataLaundry_Mng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhCucian.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_loginMng.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_MenuManager.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhKaryawan.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_Logout.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_tbhAdmin.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Form_DataPegawai.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design_kelompok.Resources.resources
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.exe
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.xml
+C:\Users\hp\OneDrive\Dokumen\kuliahhhhh\KULIAH\SEMESTER 3\DEKSTOP\fixnya\LaundrySahabat\LaundrySahabat\Visual Studio Laundry Sahabat\design kelompok\design kelompok\design kelompok\obj\Debug\design kelompok.pdb
